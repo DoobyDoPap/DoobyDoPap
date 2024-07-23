@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atharv Dubey, A pre-final year student at VJTI,Mumbai 
 - 👀 I’m interested in Robotics & Embedded Systems
 - 🌱 I’m currently learning Reinforcment Learning,Wireless Embedded Systems
-- 💞️ I’m looking to collaborate on Reconfigurable Robotics
+- 💞️ I’m looking to collaborate on Manipulation,Control Theory 
   
 
 <!---
